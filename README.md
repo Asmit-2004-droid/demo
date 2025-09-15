@@ -17,4 +17,8 @@ git push origin main<br>
 cd ..<br>
 git init<br>
 mkdir //name//<br>
-
+git remote add origin //link// <br>
+git remote -v<br>
+git branch<br>
+git branch -M main<br>
+git push -u origin main<br>
